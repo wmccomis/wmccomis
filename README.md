@@ -1,9 +1,9 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋, I'm Will McComis </h1>
 
 My name is Will!
 
-🔭 I’m currently working on [wmccomis_website_v2](https://github.com/wmccomis/wmccomis_website_v2) and a chat app to help me get better versed in Flutter
-📫 How to reach me: wmccomis@nd.edu or [willmccomis.com](https://willmccomis.com)
+- 🔭 I’m currently working on [wmccomis_website_v2](https://github.com/wmccomis/wmccomis_website_v2) and a chat app to help me get better versed in Flutter
+- 📫 How to reach me: wmccomis@nd.edu or [willmccomis.com](https://willmccomis.com)
 
 <!--
 **wmccomis/wmccomis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
